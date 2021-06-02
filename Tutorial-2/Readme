@@ -1,1 +1,3 @@
-Readme
+The tutorial 2 explains best practices to be followed in Tensor flow lite model creation.
+
+Project - Batteryvoltageestimator is Regression ML model which will predicts the battery voltage over the time.
